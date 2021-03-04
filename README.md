@@ -1,5 +1,5 @@
 # Kombucha-SNV-analysis
-Scripts used for performing Single Nucleotide Analysis of kombucha under space and Earth conditions
+Script used for performing Single Nucleotide Analysis of kombucha under space and Earth conditions
 
 Script function:
 find_gene_equivalent.py - Looks for the exact same genes in both space and Earth cultivated genomes and pairs them side by side. 
